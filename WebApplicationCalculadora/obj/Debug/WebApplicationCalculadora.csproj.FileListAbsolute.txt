@@ -1,0 +1,7 @@
+D:\Programacion 2\Clase 1\Tarea Calculadora\WebApplicationCalculadora\WebApplicationCalculadora\bin\WebApplicationCalculadora.dll.config
+D:\Programacion 2\Clase 1\Tarea Calculadora\WebApplicationCalculadora\WebApplicationCalculadora\bin\WebApplicationCalculadora.dll
+D:\Programacion 2\Clase 1\Tarea Calculadora\WebApplicationCalculadora\WebApplicationCalculadora\bin\WebApplicationCalculadora.pdb
+D:\Programacion 2\Clase 1\Tarea Calculadora\WebApplicationCalculadora\WebApplicationCalculadora\obj\Debug\WebApplicationCalculadora.csprojResolveAssemblyReference.cache
+D:\Programacion 2\Clase 1\Tarea Calculadora\WebApplicationCalculadora\WebApplicationCalculadora\obj\Debug\WebApplicationCalculadora.csproj.CoreCompileInputs.cache
+D:\Programacion 2\Clase 1\Tarea Calculadora\WebApplicationCalculadora\WebApplicationCalculadora\obj\Debug\WebApplicationCalculadora.dll
+D:\Programacion 2\Clase 1\Tarea Calculadora\WebApplicationCalculadora\WebApplicationCalculadora\obj\Debug\WebApplicationCalculadora.pdb
